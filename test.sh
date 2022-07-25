@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "IBM"
+echo "Kyndryl"
 echo "Rakesh"
-echo "Shringi"
 echo "Bangalore"
